@@ -1,4 +1,4 @@
-# Getting Started with Create React App, modified by dasarath
+# Getting Started with Create React App, modified by varun
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
